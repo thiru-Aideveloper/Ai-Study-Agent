@@ -32,6 +32,3 @@ AI-Study-Agent/
 ├── background.jpg
 ├── requirements.txt
 └── README.md
-👨‍💻 Author
-**Thirumalaivasan**
-B.Tech – Electrical and Electronics Engineering
